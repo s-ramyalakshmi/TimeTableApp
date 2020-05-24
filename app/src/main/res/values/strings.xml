@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CheckTimeTable</string>
+    
+    <string-array name="titleMain">
+        <item> TimeTable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+        <item> TimeTable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+        <item> TimeTable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+    </string-array>
+
+    <string-array name="descriptionMain">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+    </string-array>
+</resources>
